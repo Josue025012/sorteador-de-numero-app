@@ -16,7 +16,7 @@ export default function Index() {
         justifyContent: "center",
         alignItems: "center",
         gap: 24,
-        backgroundColor: "#333",
+        backgroundColor: "#fff",
       }}
     >
       <Text 
